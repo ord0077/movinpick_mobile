@@ -1,0 +1,5 @@
+24/12/19 - Tuesday
+- Added post functionality of checkout
+- Added loader for checkout
+
+// Bearer
